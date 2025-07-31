@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ScatterChart, Scatter, BarChart, Bar, AreaChart, Area, ReferenceLine } from 'recharts';
 import { DatasetType, ProcessedDataPoint, DATASET_CONFIG } from '@/types/data';
 import { filterData, formatValue } from '@/utils/dataUtils';
-import { ChoroplethMap } from './ChoroplethMap';
+import { HeatTreeMap } from './HeatTreeMap';
 import { NoDataPlaceholder } from './NoDataPlaceholder';
 
 interface GeneralChartsProps {
@@ -69,9 +69,10 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
   // Get unique years for multi-year check
   const uniqueYears = [...new Set(Object.values(data).flat().map(d => d.year))];
   const hasMultipleYears = uniqueYears.length > 1;
+  const showTimeSeriesPlaceholder = !hasMultipleYears || (selectedYear && uniqueYears.length === 1);
   
   // Check if we have data for charts
-  const hasCountryData = countryData.length > 0;
+  const hasCountryData = countryData.length >= 5; // Only show if we have at least 5 countries
   const hasScatterData = scatterData.length > 0;
   
   // Get active dataset data for choropleth
@@ -98,8 +99,8 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-      {/* Choropleth Map */}
-      <ChoroplethMap 
+      {/* Heat & Tree Map */}
+      <HeatTreeMap 
         data={activeDatasetData}
         activeDataset={activeDataset}
         selectedYear={selectedYear}
@@ -113,10 +114,10 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
           </CardTitle>
         </CardHeader>
         <CardContent>
-          {!hasMultipleYears || !selectedYear ? (
+          {showTimeSeriesPlaceholder ? (
             <NoDataPlaceholder 
-              message="Multi-year comparison unavailable - select a different year filter or ensure multiple years exist"
-              icon="📈"
+              message="Multi-year data unavailable for single-year selection"
+              icon="📉"
               height="h-72"
             />
           ) : (
@@ -159,10 +160,18 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
             />
           ) : (
             <ResponsiveContainer width="100%" height={300}>
-              <ScatterChart data={scatterData}>
+              <ScatterChart data={scatterData} margin={hasNegativeValues ? { left: 20 } : undefined}>
                 <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-                <XAxis dataKey="x" stroke="hsl(var(--muted-foreground))" />
-                <YAxis dataKey="y" stroke="hsl(var(--muted-foreground))" />
+                <XAxis 
+                  dataKey="x" 
+                  stroke="hsl(var(--muted-foreground))" 
+                  domain={hasNegativeValues ? ['dataMin - 1', 'dataMax + 1'] : undefined}
+                />
+                <YAxis 
+                  dataKey="y" 
+                  stroke="hsl(var(--muted-foreground))"
+                  domain={hasNegativeValues ? ['dataMin - 5', 'dataMax + 5'] : undefined}
+                />
                 {hasNegativeValues && (
                   <ReferenceLine y={0} stroke="hsl(var(--muted-foreground))" strokeDasharray="2 2" />
                 )}
@@ -185,8 +194,8 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
         <CardContent>
           {!hasCountryData || !selectedYear ? (
             <NoDataPlaceholder 
-              message="Top 5 countries unavailable - select a year to compare countries"
-              icon="🏆"
+              message="No data available for current filter selection"
+              icon="📊"
               height="h-72"
             />
           ) : (
