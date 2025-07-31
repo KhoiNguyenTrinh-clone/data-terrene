@@ -97,6 +97,7 @@ export const Dashboard = () => {
             data={processedData}
             selectedYear={selectedYear}
             selectedCountry={selectedCountry}
+            activeDataset={activeDataset}
           />
         </section>
         

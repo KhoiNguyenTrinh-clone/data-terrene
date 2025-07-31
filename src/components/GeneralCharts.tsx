@@ -1,15 +1,18 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ScatterChart, Scatter, BarChart, Bar, AreaChart, Area } from 'recharts';
+import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ScatterChart, Scatter, BarChart, Bar, AreaChart, Area, ReferenceLine } from 'recharts';
 import { DatasetType, ProcessedDataPoint, DATASET_CONFIG } from '@/types/data';
 import { filterData, formatValue } from '@/utils/dataUtils';
+import { ChoroplethMap } from './ChoroplethMap';
+import { NoDataPlaceholder } from './NoDataPlaceholder';
 
 interface GeneralChartsProps {
   data: Record<DatasetType, ProcessedDataPoint[]>;
   selectedYear?: number;
   selectedCountry: string;
+  activeDataset: DatasetType;
 }
 
-export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralChartsProps) => {
+export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDataset }: GeneralChartsProps) => {
   // Prepare time series data
   const getTimeSeriesData = () => {
     const allYears = [...new Set(Object.values(data).flat().map(d => d.year))].sort();
@@ -25,21 +28,22 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralCh
     });
   };
 
-  // Prepare country comparison data
+  // Prepare country comparison data - Top 5 countries for active dataset
   const getCountryComparisonData = () => {
     if (!selectedYear) return [];
     
-    const countries = [...new Set(Object.values(data).flat().map(d => d.country))];
+    const activeData = data[activeDataset];
+    const countryTotals = activeData
+      .filter(d => d.year === selectedYear)
+      .reduce((acc, d) => {
+        acc[d.country] = (acc[d.country] || 0) + d.value;
+        return acc;
+      }, {} as Record<string, number>);
     
-    return countries.map(country => {
-      const countryData: any = { country };
-      Object.entries(data).forEach(([datasetType, datasetData]) => {
-        const filtered = datasetData.filter(d => d.year === selectedYear && d.country === country);
-        const total = filtered.reduce((sum, d) => sum + d.value, 0);
-        countryData[datasetType] = total;
-      });
-      return countryData;
-    }).filter(d => Object.values(d).some(v => typeof v === 'number' && v > 0));
+    return Object.entries(countryTotals)
+      .map(([country, value]) => ({ country, [activeDataset]: value }))
+      .sort((a, b) => (b[activeDataset] as number) - (a[activeDataset] as number))
+      .slice(0, 5); // Top 5 countries only
   };
 
   // Prepare scatter data
@@ -61,6 +65,20 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralCh
   const timeSeriesData = getTimeSeriesData();
   const countryData = getCountryComparisonData();
   const scatterData = getScatterData();
+  
+  // Get unique years for multi-year check
+  const uniqueYears = [...new Set(Object.values(data).flat().map(d => d.year))];
+  const hasMultipleYears = uniqueYears.length > 1;
+  
+  // Check if we have data for charts
+  const hasCountryData = countryData.length > 0;
+  const hasScatterData = scatterData.length > 0;
+  
+  // Get active dataset data for choropleth
+  const activeDatasetData = data[activeDataset] || [];
+  
+  // Check for negative values in active dataset for scatter chart axis adjustment
+  const hasNegativeValues = activeDatasetData.some(d => d.value < 0);
 
   const CustomTooltip = ({ active, payload, label }: any) => {
     if (active && payload && payload.length) {
@@ -80,33 +98,48 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralCh
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      {/* Choropleth Map */}
+      <ChoroplethMap 
+        data={activeDatasetData}
+        activeDataset={activeDataset}
+        selectedYear={selectedYear}
+      />
+
       {/* Time Series Chart */}
-      <Card className="col-span-1 lg:col-span-2">
+      <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
-            📈 Time Series Trends
+            📈 Multi-Year Comparison
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <ResponsiveContainer width="100%" height={400}>
-            <LineChart data={timeSeriesData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-              <XAxis dataKey="year" stroke="hsl(var(--muted-foreground))" />
-              <YAxis stroke="hsl(var(--muted-foreground))" />
-              <Tooltip content={<CustomTooltip />} />
-              {Object.entries(DATASET_CONFIG).map(([key, config]) => (
-                <Line
-                  key={key}
-                  type="monotone"
-                  dataKey={key}
-                  stroke={config.color}
-                  strokeWidth={3}
-                  dot={{ fill: config.color, strokeWidth: 2, r: 6 }}
-                  activeDot={{ r: 8, stroke: config.color, strokeWidth: 2 }}
-                />
-              ))}
-            </LineChart>
-          </ResponsiveContainer>
+          {!hasMultipleYears || !selectedYear ? (
+            <NoDataPlaceholder 
+              message="Multi-year comparison unavailable - select a different year filter or ensure multiple years exist"
+              icon="📈"
+              height="h-72"
+            />
+          ) : (
+            <ResponsiveContainer width="100%" height={300}>
+              <LineChart data={timeSeriesData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
+                <XAxis dataKey="year" stroke="hsl(var(--muted-foreground))" />
+                <YAxis stroke="hsl(var(--muted-foreground))" />
+                <Tooltip content={<CustomTooltip />} />
+                {Object.entries(DATASET_CONFIG).map(([key, config]) => (
+                  <Line
+                    key={key}
+                    type="monotone"
+                    dataKey={key}
+                    stroke={config.color}
+                    strokeWidth={3}
+                    dot={{ fill: config.color, strokeWidth: 2, r: 6 }}
+                    activeDot={{ r: 8, stroke: config.color, strokeWidth: 2 }}
+                  />
+                ))}
+              </LineChart>
+            </ResponsiveContainer>
+          )}
         </CardContent>
       </Card>
 
@@ -118,38 +151,65 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralCh
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <ResponsiveContainer width="100%" height={300}>
-            <ScatterChart data={scatterData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-              <XAxis dataKey="x" stroke="hsl(var(--muted-foreground))" />
-              <YAxis dataKey="y" stroke="hsl(var(--muted-foreground))" />
-              <Tooltip content={<CustomTooltip />} />
-              <Scatter dataKey="y" fill="hsl(var(--primary))" />
-            </ScatterChart>
-          </ResponsiveContainer>
+          {!hasScatterData ? (
+            <NoDataPlaceholder 
+              message="No data points available for current selection"
+              icon="🎯"
+              height="h-72"
+            />
+          ) : (
+            <ResponsiveContainer width="100%" height={300}>
+              <ScatterChart data={scatterData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
+                <XAxis dataKey="x" stroke="hsl(var(--muted-foreground))" />
+                <YAxis dataKey="y" stroke="hsl(var(--muted-foreground))" />
+                {hasNegativeValues && (
+                  <ReferenceLine y={0} stroke="hsl(var(--muted-foreground))" strokeDasharray="2 2" />
+                )}
+                <Tooltip content={<CustomTooltip />} />
+                <Scatter dataKey="y" fill={DATASET_CONFIG[activeDataset].color} />
+              </ScatterChart>
+            </ResponsiveContainer>
+          )}
         </CardContent>
       </Card>
 
-      {/* Country Comparison Bar Chart */}
+      {/* Country Comparison Bar Chart - Top 5 */}
       <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
-            🌍 Country Comparison
+            🏆 Top 5 Countries
             {selectedYear && <span className="text-sm text-muted-foreground">({selectedYear})</span>}
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <ResponsiveContainer width="100%" height={300}>
-            <BarChart data={countryData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-              <XAxis dataKey="country" stroke="hsl(var(--muted-foreground))" />
-              <YAxis stroke="hsl(var(--muted-foreground))" />
-              <Tooltip content={<CustomTooltip />} />
-              {Object.entries(DATASET_CONFIG).map(([key, config]) => (
-                <Bar key={key} dataKey={key} fill={config.color} />
-              ))}
-            </BarChart>
-          </ResponsiveContainer>
+          {!hasCountryData || !selectedYear ? (
+            <NoDataPlaceholder 
+              message="Top 5 countries unavailable - select a year to compare countries"
+              icon="🏆"
+              height="h-72"
+            />
+          ) : (
+            <ResponsiveContainer width="100%" height={300}>
+              <BarChart data={countryData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
+                <XAxis 
+                  dataKey="country" 
+                  stroke="hsl(var(--muted-foreground))"
+                  angle={-45}
+                  textAnchor="end"
+                  height={80}
+                />
+                <YAxis stroke="hsl(var(--muted-foreground))" />
+                <Tooltip content={<CustomTooltip />} />
+                <Bar 
+                  dataKey={activeDataset} 
+                  fill={DATASET_CONFIG[activeDataset].color}
+                  radius={[4, 4, 0, 0]}
+                />
+              </BarChart>
+            </ResponsiveContainer>
+          )}
         </CardContent>
       </Card>
 
@@ -161,25 +221,33 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry }: GeneralCh
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <ResponsiveContainer width="100%" height={350}>
-            <AreaChart data={timeSeriesData}>
-              <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
-              <XAxis dataKey="year" stroke="hsl(var(--muted-foreground))" />
-              <YAxis stroke="hsl(var(--muted-foreground))" />
-              <Tooltip content={<CustomTooltip />} />
-              {Object.entries(DATASET_CONFIG).map(([key, config]) => (
-                <Area
-                  key={key}
-                  type="monotone"
-                  dataKey={key}
-                  stackId="1"
-                  stroke={config.color}
-                  fill={config.color}
-                  fillOpacity={0.6}
-                />
-              ))}
-            </AreaChart>
-          </ResponsiveContainer>
+          {timeSeriesData.length === 0 ? (
+            <NoDataPlaceholder 
+              message="No cumulative data available for current selection"
+              icon="📊"
+              height="h-80"
+            />
+          ) : (
+            <ResponsiveContainer width="100%" height={350}>
+              <AreaChart data={timeSeriesData}>
+                <CartesianGrid strokeDasharray="3 3" stroke="hsl(var(--border))" />
+                <XAxis dataKey="year" stroke="hsl(var(--muted-foreground))" />
+                <YAxis stroke="hsl(var(--muted-foreground))" />
+                <Tooltip content={<CustomTooltip />} />
+                {Object.entries(DATASET_CONFIG).map(([key, config]) => (
+                  <Area
+                    key={key}
+                    type="monotone"
+                    dataKey={key}
+                    stackId="1"
+                    stroke={config.color}
+                    fill={config.color}
+                    fillOpacity={0.6}
+                  />
+                ))}
+              </AreaChart>
+            </ResponsiveContainer>
+          )}
         </CardContent>
       </Card>
     </div>
