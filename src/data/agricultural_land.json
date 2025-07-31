@@ -1,73 +1,4273 @@
 [
   {
     "REF_AREA_CODE": "AUS",
-    "REF_AREA_NAME": "Australia",
+    "REF_CODE_NAME": "Australia",
     "TIME_PERIOD": 2012,
-    "OBS_VALUE_THOUSAND_H2": "405,473.62",
+    "OBS_VALUE_THOUSAND_H2": 405473.62,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
     "REF_AREA_CODE": "AUS",
-    "REF_AREA_NAME": "Australia",
-    "TIME_PERIOD": 2015,
-    "OBS_VALUE_THOUSAND_H2": "407,892.45",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 387264.59,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
     "REF_AREA_CODE": "AUS",
-    "REF_AREA_NAME": "Australia",
+    "REF_CODE_NAME": "Australia",
     "TIME_PERIOD": 2020,
-    "OBS_VALUE_THOUSAND_H2": "412,156.78",
+    "OBS_VALUE_THOUSAND_H2": 377002.26,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
-    "REF_AREA_CODE": "USA",
-    "REF_AREA_NAME": "United States",
-    "TIME_PERIOD": 2012,
-    "OBS_VALUE_THOUSAND_H2": "370,284.56",
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 383801.49,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
-    "REF_AREA_CODE": "USA",
-    "REF_AREA_NAME": "United States",
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 378082,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 393797.18,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 371078.26,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
     "TIME_PERIOD": 2015,
-    "OBS_VALUE_THOUSAND_H2": "368,945.23",
+    "OBS_VALUE_THOUSAND_H2": 384557.87,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 406269.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 2863.58,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 2602.49,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 2646.96,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 2652.22,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 2653.84,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 2655.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 2688.83,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 2720.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 2716.16,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1333.91,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1368.31,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1367.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1358.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1356.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1329.15,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1352.95,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1330.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1333.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 56596.73,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 55390.72,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 55945.64,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 56845.06,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 57329.86,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 57325.64,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 54904.12,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 55845.21,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 55679.41,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 15755,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 15710,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 15671,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 15695,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 15757,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 15741.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 15785,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 15761.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 42617.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 48242.82,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 49609,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 49492,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 49499,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 44723,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 44753.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 44784.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1812,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1761.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1775.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1782.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1779.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1777.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1777.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1778,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 3529.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 3523.87,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 3523.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 3523.22,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 3521.33,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 3488.79,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 3493.72,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 3515.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 3521,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 2618.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 2620,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 2626,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 2632.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 2631.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 2625.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 2632.95,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 2652,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 2627.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 986.67,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 985.46,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 988.41,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 984.67,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 981.83,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1003.51,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 993.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 974.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 965.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 2268,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 2270,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 2273.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 2271.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 2272.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 2274.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 2273.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 2267.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 2258.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 29000.83,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 28897.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 29024.18,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 29020.16,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 29101.33,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 29101.11,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 29058.27,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 29070.82,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 16591.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 16595,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 16666,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 16645.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 16687.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 16658.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 16730.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 16724.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 16699.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 5137.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 5267.52,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 5153.38,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 5288.05,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 5152.43,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 5259.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 5291.71,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 5406.72,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 5213.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 5049.01,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 4997.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 5309.52,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 5343.78,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 5352.28,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 5348.97,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 5346.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 5346.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 5339.98,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 4337.13,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 4511.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 4524.15,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 4516.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 4489.21,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 4460.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 4430.97,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 4465.38,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 4477.64,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 289.09,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 288.31,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 293.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 353.21,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 297.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 308.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 305.99,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 309.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 292.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 12987.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 13122.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 13150.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 12908.75,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 13005.75,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 12843.32,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 12660.89,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 12720.15,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 12426,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 4348.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 4372.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 4396.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 4419.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 4443.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 4471.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 4495.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 4518.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 4536.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1804.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1656.48,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1676.25,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1693.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1675.11,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1714.54,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1717.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1789.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1970.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1969,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1959.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1937.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1932.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1930.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1884.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1872.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1877.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 2937.81,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 2942.78,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 2974.99,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 2947.23,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 2935.31,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 2954.06,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 3005.96,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 2952.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 2891.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 132.81,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 132.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 131.59,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 131.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 131.16,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 130.65,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 131.38,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 131.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 131.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 100512,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 97138,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 96106,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 96516,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 96946,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 98338,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 98680,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 98748,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1811.91,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1814.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1816.32,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1822.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1789.99,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1796.26,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1845.75,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1839,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1847.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 10779,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 10674,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 10850,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 11122,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 11106,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 11209,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 10175,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 10234,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 10428,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 992.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 985.96,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 981.82,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 986.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 985.11,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 983.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 986,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 986.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 14521.86,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 14754.86,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 14550.35,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 14539.55,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 14497.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 14405.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 14398.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 14424.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 14409.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 3980.49,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 3970.41,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 3966.67,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 3752.98,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 3708.38,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 3638.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 3695.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 3699.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 3718.16,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1856.13,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1910.04,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1915.73,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1919.54,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1910.65,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1918.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1921.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1924.73,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1928.51,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 479.49,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 484.06,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 479.82,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 477.93,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 481.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 477.67,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 476.86,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 482.21,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 478.89,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 24420.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 24434.63,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 24371.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 24201.91,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 23840.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 23816.33,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 23897.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 23571.78,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 23494.57,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 3002.91,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 3005.54,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 3004.78,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 3000.39,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 3011.37,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 3020.92,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 3028.35,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 3036.07,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 3036.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1531.43,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1510.38,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1512.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1514.68,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1517.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1520.53,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1523.32,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1526.02,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 38089,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 37762,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 37797,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 37797,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 37963,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 38327.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 38550.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 38559.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 38421.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 17259,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 17282,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 17529,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 17357,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 17472,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 17357,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 17144,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
     "REF_AREA_CODE": "USA",
-    "REF_AREA_NAME": "United States",
-    "TIME_PERIOD": 2020,
-    "OBS_VALUE_THOUSAND_H2": "367,123.89",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 422480.96,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
-    "REF_AREA_CODE": "BRA",
-    "REF_AREA_NAME": "Brazil",
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
     "TIME_PERIOD": 2012,
-    "OBS_VALUE_THOUSAND_H2": "264,567.12",
+    "OBS_VALUE_THOUSAND_H2": 423893.24,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
-    "REF_AREA_CODE": "BRA",
-    "REF_AREA_NAME": "Brazil",
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 418374.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 424445.02,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 422826.24,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 422826.24,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
     "TIME_PERIOD": 2015,
-    "OBS_VALUE_THOUSAND_H2": "268,234.67",
+    "OBS_VALUE_THOUSAND_H2": 422568.32,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 178268.81,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 178197.76,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 180455.01,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 179306.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 178927.87,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 178764.74,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 178938.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 160915.76,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 161963.84,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 162926.01,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 161949.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 161455.87,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 161407.74,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 161794.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 161293.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 124741.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 108381.76,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 108381.76,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 108381.76,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 111239.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 114163.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 117088.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 120012.9,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   },
   {
     "REF_AREA_CODE": "BRA",
-    "REF_AREA_NAME": "Brazil",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 233275.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
     "TIME_PERIOD": 2020,
-    "OBS_VALUE_THOUSAND_H2": "272,891.45",
+    "OBS_VALUE_THOUSAND_H2": 236878.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 236878.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 236878.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 236878.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 236159,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 235438.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 234717.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 5046.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 5047.25,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 5037.47,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 5030.28,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 5029.53,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 5021.41,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 5011.49,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 4976.82,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 4995.11,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 528799.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 528508.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 528509.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 528509.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 528512.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 528552.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 528633.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 528695,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 1476.35,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 1506.21,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 1504.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 1485.65,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 1496.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 1546.02,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 1537.63,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 1240.87,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1300.81,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 123.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 127.78,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 125.35,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 132.44,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 121.73,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 112.31,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 126.47,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 107.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 107.13,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 179642,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 179045.08,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 179044.95,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 179115.56,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 179235.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 179578,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 179675,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 179728,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 56500,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 62300,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 62300,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 62300,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 62300,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 60200,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 57300,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 57000,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 217012.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 214003.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 213974.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 216036.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 216213.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 216242.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 216259.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 216799.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 10.73,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 10.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 11.58,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 11.58,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 11.58,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 11.58,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 11.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 11.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 11.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 12585,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 12556,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 12527,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 12498,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 12469,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 12430,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 12675,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 12643,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_THOUSAND_H2": 13078.88,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 13048.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 13825.61,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 13413.74,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 13377.93,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 13520.85,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 13858.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 13830.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 13904.64,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 41297,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 41892,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 41892,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 41913,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 42075,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 42102,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 42095,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 42099,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 10793.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": 12360,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_THOUSAND_H2": 12388,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 12140.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_THOUSAND_H2": 12168.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_THOUSAND_H2": 12172.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": 12147.8,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 10873.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_CODE_NAME": "Australia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 396615.29,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUT",
+    "REF_CODE_NAME": "Austria",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 2862.44,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_CODE_NAME": "Belgium",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1338.57,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_CODE_NAME": "Canada",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 56522.91,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHL",
+    "REF_CODE_NAME": "Chile",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 15781,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_CODE_NAME": "Colombia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 44815.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_CODE_NAME": "Costa Rica",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1801,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_CODE_NAME": "Czechia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 3525.89,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_CODE_NAME": "Denmark",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 2663.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_CODE_NAME": "Estonia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 955.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FIN",
+    "REF_CODE_NAME": "Finland",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 2285.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_CODE_NAME": "France",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 29146.02,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_CODE_NAME": "Germany",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 16667.3,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_CODE_NAME": "Greece",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 5134.71,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_CODE_NAME": "Hungary",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 5338.02,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_CODE_NAME": "Iceland",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1591.03,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IRL",
+    "REF_CODE_NAME": "Ireland",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 4532.29,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_CODE_NAME": "Israel",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 298.27,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ITA",
+    "REF_CODE_NAME": "Italy",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 12548.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_CODE_NAME": "Japan",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 4549.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_CODE_NAME": "Korea",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1786.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_CODE_NAME": "Latvia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1840.9,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_CODE_NAME": "Lithuania",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 2842.2,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_CODE_NAME": "Luxembourg",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 131.42,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_CODE_NAME": "Mexico",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 99486,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_CODE_NAME": "Netherlands",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1841.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_CODE_NAME": "New Zealand",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 10632,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NOR",
+    "REF_CODE_NAME": "Norway",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 987.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_CODE_NAME": "Poland",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 14529.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_CODE_NAME": "Portugal",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 3664.7,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_CODE_NAME": "Slovak Republic",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1927.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_CODE_NAME": "Slovenia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 479.65,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_CODE_NAME": "Spain",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 23463.12,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_CODE_NAME": "Sweden",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 3031.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_CODE_NAME": "Switzerland",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 1528.71,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_CODE_NAME": "Turkey",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 38398.69,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_CODE_NAME": "United Kingdom",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 17240,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_CODE_NAME": "United States",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 424330.15,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU28",
+    "REF_CODE_NAME": "European Union (28 countries)",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_THOUSAND_H2": 178533.66,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EU27_2020",
+    "REF_CODE_NAME": "European Union (27 countries from 01/02/2020)",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 161009.81,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ARG",
+    "REF_CODE_NAME": "Argentina",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 122937.4,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_CODE_NAME": "Brazil",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 233996.6,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BGR",
+    "REF_CODE_NAME": "Bulgaria",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 5122.98,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_CODE_NAME": "China",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 528801.5,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HRV",
+    "REF_CODE_NAME": "Croatia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 1330.97,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CYP",
+    "REF_CODE_NAME": "Cyprus",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 115.94,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IND",
+    "REF_CODE_NAME": "India",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 179698,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "IDN",
+    "REF_CODE_NAME": "Indonesia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 57000,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KAZ",
+    "REF_CODE_NAME": "Kazakhstan",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 216994.1,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MLT",
+    "REF_CODE_NAME": "Malta",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 11.45,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PHL",
+    "REF_CODE_NAME": "Philippines",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_THOUSAND_H2": 12614,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ROU",
+    "REF_CODE_NAME": "Romania",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": 13733.14,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_CODE_NAME": "Russia",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 215494,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ZAF",
+    "REF_CODE_NAME": "South Africa",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 96341,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "UKR",
+    "REF_CODE_NAME": "Ukraine",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 42114,
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "VNM",
+    "REF_CODE_NAME": "Viet Nam",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_THOUSAND_H2": 10852.8,
     "OBS_STATUS_CODE": "A",
     "OBS_STATUS_NAME": "Normal value"
   }

@@ -8,8 +8,9 @@ import {
   DATASET_CONFIG 
 } from '@/types/data';
 
-// Parse numeric value from string, removing commas
-export const parseNumericValue = (value: string): number => {
+// Parse numeric value from string or number, removing commas if string
+export const parseNumericValue = (value: string | number): number => {
+  if (typeof value === 'number') return value;
   return parseFloat(value.replace(/,/g, ''));
 };
 
@@ -38,9 +39,14 @@ export const getUniqueYears = (data: ProcessedDataPoint[]): number[] => {
 // Get unique countries from dataset
 export const getUniqueCountries = (data: ProcessedDataPoint[]): { code: string; name: string }[] => {
   const countries = [...new Map(
-    data.map(d => [d.countryCode, { code: d.countryCode, name: d.country }])
+    data
+      .filter(d => d.country && d.countryCode) // Filter out entries with missing data
+      .map(d => [d.countryCode, { code: d.countryCode, name: d.country }])
   ).values()];
-  return countries.sort((a, b) => a.name.localeCompare(b.name));
+  
+  return countries
+    .filter(country => country && country.name) // Additional safety check
+    .sort((a, b) => (a.name || '').localeCompare(b.name || ''));
 };
 
 // Filter data by year and country
