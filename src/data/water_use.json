@@ -1,0 +1,92 @@
+[
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "16,250.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "17,892.45",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "19,234.67",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "408,500.23",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "425,789.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "445,123.89",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "59,847.32",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "63,291.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "67,445.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  }
+]

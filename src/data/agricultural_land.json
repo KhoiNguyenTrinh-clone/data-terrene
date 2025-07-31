@@ -1,0 +1,74 @@
+[
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": "405,473.62",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": "407,892.45",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": "412,156.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": "370,284.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": "368,945.23",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": "367,123.89",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_THOUSAND_H2": "264,567.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_THOUSAND_H2": "268,234.67",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_THOUSAND_H2": "272,891.45",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  }
+]
