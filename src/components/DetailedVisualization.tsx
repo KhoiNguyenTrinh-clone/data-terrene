@@ -3,7 +3,6 @@ import { Progress } from '@/components/ui/progress';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ComposedChart, Bar, Area } from 'recharts';
 import { DatasetType, ProcessedDataPoint, DATASET_CONFIG } from '@/types/data';
 import { filterData, formatValue, getDataStats } from '@/utils/dataUtils';
-import { InteractiveChoropleth } from './InteractiveChoropleth';
 
 interface DetailedVisualizationProps {
   datasetType: DatasetType;
@@ -159,15 +158,31 @@ export const DetailedVisualization = ({
           </Card>
         )}
 
-        {/* Interactive Choropleth Map */}
-        <div className={datasetType === 'energy' ? 'xl:col-span-2' : ''}>
-          <InteractiveChoropleth 
-            data={data}
-            activeDataset={datasetType}
-            selectedYear={selectedYear}
-            selectedCountry={selectedCountry}
-          />
-        </div>
+        {/* Global Resource Distribution (3D Globe representation) */}
+        <Card className={datasetType === 'energy' ? 'xl:col-span-2' : ''}>
+          <CardHeader>
+            <CardTitle>🌍 Global Distribution</CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="relative h-64 bg-gradient-to-br from-sky/20 to-forest/20 rounded-lg flex items-center justify-center overflow-hidden">
+              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent animate-pulse" />
+              <div className="text-center z-10">
+                <div className="text-6xl mb-4 animate-spin-slow">🌍</div>
+                <p className="text-sm text-muted-foreground">
+                  Interactive globe visualization
+                </p>
+                <p className="text-xs text-muted-foreground mt-1">
+                  Color intensity by {config.name.toLowerCase()}
+                </p>
+              </div>
+              {/* Simulated data points */}
+              <div className="absolute top-4 left-4 w-3 h-3 bg-primary rounded-full animate-pulse" />
+              <div className="absolute top-8 right-6 w-2 h-2 bg-energy rounded-full animate-pulse" style={{ animationDelay: '0.5s' }} />
+              <div className="absolute bottom-6 left-8 w-4 h-4 bg-forest rounded-full animate-pulse" style={{ animationDelay: '1s' }} />
+              <div className="absolute bottom-4 right-4 w-2 h-2 bg-water rounded-full animate-pulse" style={{ animationDelay: '1.5s' }} />
+            </div>
+          </CardContent>
+        </Card>
 
         {/* Statistics Summary */}
         <Card>

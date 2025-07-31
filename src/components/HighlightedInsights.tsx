@@ -3,7 +3,6 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
 import { DatasetType, ProcessedDataPoint, DATASET_CONFIG } from '@/types/data';
 import { filterData, formatValue, getDataStats } from '@/utils/dataUtils';
-import { NoDataPlaceholder } from './NoDataPlaceholder';
 
 interface HighlightedInsightsProps {
   activeDataset: DatasetType;
@@ -47,15 +46,12 @@ export const HighlightedInsights = ({
   // Prepare radar chart data for country comparison
   const getRadarData = () => {
     const countries = [...new Set(filteredData.map(d => d.country))].slice(0, 3);
-    const years = [...new Set(data.map(d => d.year))].sort(); // Use all data years, not filtered
-    
-    // Only show if we have multiple years
-    if (years.length < 2) return [];
+    const years = [...new Set(filteredData.map(d => d.year))].sort();
     
     return years.map(year => {
       const yearData: any = { year };
       countries.forEach(country => {
-        const countryData = data.filter(d => d.country === country && d.year === year);
+        const countryData = filteredData.filter(d => d.country === country && d.year === year);
         const total = countryData.reduce((sum, d) => sum + d.value, 0);
         yearData[country] = total;
       });
@@ -159,7 +155,7 @@ export const HighlightedInsights = ({
           </CardContent>
         </Card>
 
-        {/* Radar Chart or Multi-Year Placeholder */}
+        {/* Radar Chart */}
         <Card className="transition-all duration-300 hover:shadow-lg">
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
@@ -167,35 +163,27 @@ export const HighlightedInsights = ({
             </CardTitle>
           </CardHeader>
           <CardContent>
-            {radarData.length === 0 ? (
-              <NoDataPlaceholder 
-                message="Multi-year data unavailable for single-year selection"
-                icon="📉"
-                height="h-80"
-              />
-            ) : (
-              <ResponsiveContainer width="100%" height={350}>
-                <RadarChart data={radarData}>
-                  <PolarGrid stroke="hsl(var(--border))" />
-                  <PolarAngleAxis dataKey="year" tick={{ fontSize: 12 }} />
-                  <PolarRadiusAxis tick={{ fontSize: 10 }} />
-                  <Tooltip content={<CustomTooltip />} />
-                  {radarData.length > 0 && Object.keys(radarData[0])
-                    .filter(key => key !== 'year')
-                    .map((country, index) => (
-                      <Radar
-                        key={country}
-                        name={country}
-                        dataKey={country}
-                        stroke={colors[index]}
-                        fill={colors[index]}
-                        fillOpacity={0.3}
-                        strokeWidth={2}
-                      />
-                    ))}
-                </RadarChart>
-              </ResponsiveContainer>
-            )}
+            <ResponsiveContainer width="100%" height={350}>
+              <RadarChart data={radarData}>
+                <PolarGrid stroke="hsl(var(--border))" />
+                <PolarAngleAxis dataKey="year" tick={{ fontSize: 12 }} />
+                <PolarRadiusAxis tick={{ fontSize: 10 }} />
+                <Tooltip content={<CustomTooltip />} />
+                {radarData.length > 0 && Object.keys(radarData[0])
+                  .filter(key => key !== 'year')
+                  .map((country, index) => (
+                    <Radar
+                      key={country}
+                      name={country}
+                      dataKey={country}
+                      stroke={colors[index]}
+                      fill={colors[index]}
+                      fillOpacity={0.3}
+                      strokeWidth={2}
+                    />
+                  ))}
+              </RadarChart>
+            </ResponsiveContainer>
           </CardContent>
         </Card>
       </div>
