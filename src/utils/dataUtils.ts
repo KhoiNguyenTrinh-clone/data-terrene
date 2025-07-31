@@ -76,7 +76,10 @@ export const getDataStats = (data: ProcessedDataPoint[]) => {
 };
 
 // Format number with commas and proper decimal places
-export const formatValue = (value: number, decimals: number = 2): string => {
+export const formatValue = (value: number | undefined, decimals: number = 2): string => {
+  if (value === undefined || value === null || isNaN(value)) {
+    return '0';
+  }
   return value.toLocaleString('en-US', {
     minimumFractionDigits: decimals,
     maximumFractionDigits: decimals
