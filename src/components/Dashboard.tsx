@@ -16,7 +16,7 @@ import agriculturalData from '@/data/agricultural_land.json';
 export const Dashboard = () => {
   const [activeDataset, setActiveDataset] = useState<DatasetType>('nutrient');
   const [selectedYear, setSelectedYear] = useState<number | undefined>(undefined);
-  const [selectedCountry, setSelectedCountry] = useState<string>('');
+  const [selectedCountry, setSelectedCountry] = useState<string>('all');
   
   const [processedData, setProcessedData] = useState<Record<DatasetType, ProcessedDataPoint[]>>({
     nutrient: [],

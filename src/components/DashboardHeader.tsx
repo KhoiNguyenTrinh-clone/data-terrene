@@ -60,7 +60,7 @@ export const DashboardHeader = ({
                   <SelectValue placeholder="All Countries" />
                 </SelectTrigger>
                 <SelectContent>
-                  <SelectItem value="">All Countries</SelectItem>
+                  <SelectItem value="all">All Countries</SelectItem>
                   {availableCountries.map(country => (
                     <SelectItem key={country.code} value={country.code}>
                       {country.name}

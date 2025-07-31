@@ -51,7 +51,7 @@ export const filterData = (
 ): ProcessedDataPoint[] => {
   return data.filter(item => {
     const yearMatch = !selectedYear || item.year === selectedYear;
-    const countryMatch = !selectedCountry || item.countryCode === selectedCountry;
+    const countryMatch = !selectedCountry || selectedCountry === 'all' || item.countryCode === selectedCountry;
     return yearMatch && countryMatch;
   });
 };
