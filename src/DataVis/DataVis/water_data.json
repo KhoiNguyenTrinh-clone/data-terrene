@@ -1,0 +1,3152 @@
+[
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "16,250.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "13,323.22",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "15,349.87",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "17,564.52",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "16,642.74",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "15,772.31",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "19,369.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "20,137.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "16,354.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "13,709.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "13,849.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "4,453.30",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "4,710.06",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "4,061.42",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "4,624.27",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "4,896.52",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "5,367.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "5,387.13",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "6,032.87",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "4,531.35",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_AREA_NAME": "Canada",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "32,322.90",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_AREA_NAME": "Canada",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "31,127.90",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "81,910.64",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "81,326.03",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "78,227.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "80,422.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "85,664.26",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "73,476.58",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "101,219.96",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "107,789.39",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "109,794.55",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "116,837.03",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "1,347.41",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "1,246.02",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "1,066.21",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "853.33",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "3,446.83",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "3,136.08",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "3,138.13",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "3,053.67",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "2,832.75",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "2,922.71",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "1,992.94",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "1,650.40",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "1,840.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "1,886.60",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "1,950.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "1,348.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "1,365.90",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "1,506.30",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "1,591.10",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "1,630.40",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "1,635.60",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "1,603.10",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "937.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "1,012.16",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "1,014.92",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "871.96",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "960.59",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "942.65",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "965.09",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "976.43",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "945.59",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "1,105.82",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "895.79",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "1,756.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "1,616.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "1,747.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "1,631.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "1,873.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "1,842.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "1,724.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "993.68",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "848.03",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "1,004.38",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "1,605.19",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "28,122.41",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "27,075.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "27,828.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "30,008.30",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "28,316.02",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "28,338.85",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "24,919.35",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "26,272.08",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "26,922.47",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "27,010.06",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_AREA_NAME": "Germany",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "25,326.84",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_AREA_NAME": "Germany",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "33,036.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_AREA_NAME": "Germany",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "20,716.52",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "10,133.88",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "10,012.69",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "10,009.43",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "10,027.95",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "10,029.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "10,028.05",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "10,135.61",
+    "OBS_STATUS_CODE": "B",
+    "OBS_STATUS_NAME": "Time series break"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "9,844.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "10,087.31",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "10,122.07",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "10,115.21",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "4,232.29",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "4,498.91",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "4,277.15",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "4,156.66",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "3,922.60",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "4,705.04",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "5,020.28",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "5,192.87",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "HUN",
+    "REF_AREA_NAME": "Hungary",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "5,332.56",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_AREA_NAME": "Iceland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "3,571.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_AREA_NAME": "Iceland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "3,515.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_AREA_NAME": "Iceland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "3,303.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_AREA_NAME": "Iceland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "3,011.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "1,296.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "1,318.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "1,266.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "1,340.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "1,530.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "1,276.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "1,164.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "1,112.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "1,201.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "1,199.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "1,145.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "79,336.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "79,628.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "79,851.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "80,067.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "80,170.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "80,500.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "80,897.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "81,467.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "78,456.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "23,403.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "26,377.47",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "26,701.29",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "25,100.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "21,222.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "19,535.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "19,564.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "23,871.00",
+    "OBS_STATUS_CODE": "B",
+    "OBS_STATUS_NAME": "Time series break"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "18,801.49",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "23,863.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "180.2",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "187.17",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "173.11",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "194.2",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "184.53",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "181.21",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "178.63",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "183.35",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "181.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "185.86",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "176.74",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "442.68",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "668.29",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "610.83",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "739.54",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "354.83",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "401.18",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "282.11",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "285.96",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "291.62",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "340.12",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "409.99",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "45.31",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "45.95",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "43.15",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "44.6",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "46.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "47.6",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "47.74",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "49.29",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "52.21",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "45.55",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "81,651.20",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "82,733.71",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "81,588.15",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "80,213.45",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "89,944.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "89,547.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "89,350.73",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "88,839.73",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "87,841.52",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "86,576.75",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "85,664.25",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "8,444.20",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "9,439.42",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "10,663.34",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "10,738.81",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "10,188.06",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "10,931.16",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "8,306.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "8,403.40",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "8,090.19",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "7,914.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_AREA_NAME": "New Zealand",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "5,200.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NZL",
+    "REF_AREA_NAME": "New Zealand",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "9,874.35",
+    "OBS_STATUS_CODE": "B",
+    "OBS_STATUS_NAME": "Time series break"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "11,242.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "11,478.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "11,910.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "11,644.90",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "9,781.34",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "9,165.58",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "9,762.21",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "10,333.67",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "10,651.99",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "11,152.87",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "11,093.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_AREA_NAME": "Portugal",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "7,328.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "PRT",
+    "REF_AREA_NAME": "Portugal",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "4,793.88",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "637.4",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "665.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "593.1",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "600.7",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "586.7",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "575.4",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "581.2",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "573.1",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "578.6",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "555.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "573.6",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "893.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "781.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "850.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "925.68",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2021,
+    "OBS_VALUE_MIL_M3": "930.25",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "1,001.89",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "943.06",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "957.41",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "929.6",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "885.1",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "895.1",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "30,232.20",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "31,299.85",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "31,656.22",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "32,916.41",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "32,346.24",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "34,309.03",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "35,069.38",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "35,310.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "29,445.90",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "29,340.20",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "2,484.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "2,375.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "2,811.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "2,462.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "2,549.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "2,637.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "SWE",
+    "REF_AREA_NAME": "Sweden",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "2,724.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "CHE",
+    "REF_AREA_NAME": "Switzerland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "2,004.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "61,093.58",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "59,613.02",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "51,970.95",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "50,509.92",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "46,956.00",
+    "OBS_STATUS_CODE": "E",
+    "OBS_STATUS_NAME": "Estimated value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_AREA_NAME": "United Kingdom",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "7,684.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_AREA_NAME": "United Kingdom",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "8,263.60",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_AREA_NAME": "United Kingdom",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "7,284.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "387,242.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "USA",
+    "REF_AREA_NAME": "United States",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "422,747.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "66,033.41",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "66,583.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "65,054.28",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "64,175.77",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "62,877.04",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "63,095.65",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "56,596.03",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "BRA",
+    "REF_AREA_NAME": "Brazil",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "58,846.91",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "596,220.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "596,940.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "603,870.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "603,740.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "613,350.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "608,660.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "606,240.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "598,890.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "591,670.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "62,648.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "63,000.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "62,163.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "64,807.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "65,104.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "66,296.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2011,
+    "OBS_VALUE_MIL_M3": "68,652.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2010,
+    "OBS_VALUE_MIL_M3": "72,685.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2019,
+    "OBS_VALUE_MIL_M3": "62,966.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "AUS",
+    "REF_AREA_NAME": "Australia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "16,999.17",
+    "OBS_STATUS_CODE": "B",
+    "OBS_STATUS_NAME": "Time series break"
+  },
+  {
+    "REF_AREA_CODE": "BEL",
+    "REF_AREA_NAME": "Belgium",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "4,176.76",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CAN",
+    "REF_AREA_NAME": "Canada",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2015,
+    "OBS_VALUE_MIL_M3": "30,812.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "COL",
+    "REF_AREA_NAME": "Colombia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "90,792.23",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CRI",
+    "REF_AREA_NAME": "Costa Rica",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "1,656.33",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CZE",
+    "REF_AREA_NAME": "Czechia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "1,649.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DNK",
+    "REF_AREA_NAME": "Denmark",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "887",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "EST",
+    "REF_AREA_NAME": "Estonia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2017,
+    "OBS_VALUE_MIL_M3": "1,788.55",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "FRA",
+    "REF_AREA_NAME": "France",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "26,443.06",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "DEU",
+    "REF_AREA_NAME": "Germany",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "24,365.08",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GRC",
+    "REF_AREA_NAME": "Greece",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "10,122.78",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISL",
+    "REF_AREA_NAME": "Iceland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2013,
+    "OBS_VALUE_MIL_M3": "3,486.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ISR",
+    "REF_AREA_NAME": "Israel",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "1,271.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "JPN",
+    "REF_AREA_NAME": "Japan",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "79,051.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "KOR",
+    "REF_AREA_NAME": "Korea",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "22,679.30",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LVA",
+    "REF_AREA_NAME": "Latvia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "168.5",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LTU",
+    "REF_AREA_NAME": "Lithuania",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "388.27",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "LUX",
+    "REF_AREA_NAME": "Luxembourg",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "44.24",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "MEX",
+    "REF_AREA_NAME": "Mexico",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "84,928.81",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "NLD",
+    "REF_AREA_NAME": "Netherlands",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2016,
+    "OBS_VALUE_MIL_M3": "8,021.28",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "POL",
+    "REF_AREA_NAME": "Poland",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "11,308.50",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVK",
+    "REF_AREA_NAME": "Slovak Republic",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "559.3",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "SVN",
+    "REF_AREA_NAME": "Slovenia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2014,
+    "OBS_VALUE_MIL_M3": "978.2",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "ESP",
+    "REF_AREA_NAME": "Spain",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "29,595.70",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "TUR",
+    "REF_AREA_NAME": "Turkey",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2020,
+    "OBS_VALUE_MIL_M3": "63,532.80",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "GBR",
+    "REF_AREA_NAME": "United Kingdom",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2012,
+    "OBS_VALUE_MIL_M3": "8,214.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "CHN",
+    "REF_AREA_NAME": "China",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "592,910.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  },
+  {
+    "REF_AREA_CODE": "RUS",
+    "REF_AREA_NAME": "Russia",
+    "WATER_TYPE_CODE": "_T",
+    "WATER_TYPE_NAME": "Total",
+    "TIME_PERIOD": 2018,
+    "OBS_VALUE_MIL_M3": "63,127.00",
+    "OBS_STATUS_CODE": "A",
+    "OBS_STATUS_NAME": "Normal value"
+  }
+]

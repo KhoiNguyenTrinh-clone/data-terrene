@@ -82,6 +82,21 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
 
   const CustomTooltip = ({ active, payload, label }: any) => {
     if (active && payload && payload.length) {
+      // Special handling for scatter plot
+      if (payload[0]?.payload?.country) {
+        const data = payload[0].payload;
+        return (
+          <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
+            <p className="font-medium">{data.country}</p>
+            <p>Year: {data.x}</p>
+            <p style={{ color: DATASET_CONFIG[activeDataset].color }}>
+              Value: {formatValue(data.y)} {DATASET_CONFIG[activeDataset].unit}
+            </p>
+          </div>
+        );
+      }
+
+      // Default tooltip for other charts
       return (
         <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
           <p className="font-medium">{`${label}`}</p>
@@ -178,14 +193,14 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
       <Card>
         <CardHeader>
           <CardTitle className="flex items-center gap-2">
-            🏆 Top 5 Countries
+            🏆 Top Countries
             {selectedYear && <span className="text-sm text-muted-foreground">({selectedYear})</span>}
           </CardTitle>
         </CardHeader>
         <CardContent>
           {!hasCountryData || !selectedYear ? (
             <NoDataPlaceholder 
-              message="Top 5 countries unavailable - select a year to compare countries"
+              message="Top countries unavailable - select a year to compare countries"
               icon="🏆"
               height="h-72"
             />
@@ -201,7 +216,22 @@ export const GeneralCharts = ({ data, selectedYear, selectedCountry, activeDatas
                   height={80}
                 />
                 <YAxis stroke="hsl(var(--muted-foreground))" />
-                <Tooltip content={<CustomTooltip />} />
+                <Tooltip 
+                  content={({ active, payload }: any) => {
+                    if (active && payload && payload.length) {
+                      const data = payload[0].payload;
+                      return (
+                        <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
+                          <p className="font-medium">{data.country}</p>
+                          <p style={{ color: payload[0].color }}>
+                            Value: {formatValue(data[activeDataset])} {DATASET_CONFIG[activeDataset].unit}
+                          </p>
+                        </div>
+                      );
+                    }
+                    return null;
+                  }}
+                />
                 <Bar 
                   dataKey={activeDataset} 
                   fill={DATASET_CONFIG[activeDataset].color}

@@ -55,29 +55,38 @@ export const filterData = (
   selectedYear?: number,
   selectedCountry?: string
 ): ProcessedDataPoint[] => {
+  if (!data || data.length === 0) return [];
+  
   return data.filter(item => {
+    // For "All Years" view, don't filter by year
     const yearMatch = !selectedYear || item.year === selectedYear;
+    // For "All Countries" view, don't filter by country
     const countryMatch = !selectedCountry || selectedCountry === 'all' || item.countryCode === selectedCountry;
-    return yearMatch && countryMatch;
+    return yearMatch && countryMatch && item.value != null;
   });
 };
 
 // Get aggregate statistics
 export const getDataStats = (data: ProcessedDataPoint[]) => {
-  if (data.length === 0) return null;
+  if (!data || data.length === 0) return null;
   
-  const values = data.map(d => d.value);
-  const total = values.reduce((sum, val) => sum + val, 0);
-  const avg = total / values.length;
-  const max = Math.max(...values);
-  const min = Math.min(...values);
+  const validValues = data
+    .map(d => d.value)
+    .filter(val => val !== null && val !== undefined && !isNaN(val));
+  
+  if (validValues.length === 0) return null;
+  
+  const total = validValues.reduce((sum, val) => sum + val, 0);
+  const avg = total / validValues.length;
+  const max = Math.max(...validValues);
+  const min = Math.min(...validValues);
   
   return {
-    total: Math.round(total * 100) / 100,
-    average: Math.round(avg * 100) / 100,
-    maximum: max,
-    minimum: min,
-    count: data.length
+    total: Number(total.toFixed(2)),
+    average: Number(avg.toFixed(2)),
+    maximum: Number(max.toFixed(2)),
+    minimum: Number(min.toFixed(2)),
+    count: validValues.length
   };
 };
 

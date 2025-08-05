@@ -21,12 +21,28 @@ export const DatasetCards = ({
 }: DatasetCardsProps) => {
   const datasets: DatasetType[] = ['nutrient', 'water', 'energy', 'agricultural'];
 
+  const getAdjustedStats = (datasetType: DatasetType, rawStats: any) => {
+    if (!rawStats) return null;
+
+    // Handle special cases for nutrient and energy
+    if (datasetType === 'nutrient' || datasetType === 'energy') {
+      return {
+        ...rawStats,
+        total: Math.abs(rawStats.total), // Ensure positive values
+        average: rawStats.total / (rawStats.count || 1), // Recalculate average
+      };
+    }
+
+    return rawStats;
+  };
+
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
       {datasets.map((datasetType) => {
         const config = DATASET_CONFIG[datasetType];
         const filteredData = filterData(processedData[datasetType], selectedYear, selectedCountry);
-        const stats = getDataStats(filteredData);
+        const rawStats = getDataStats(filteredData);
+        const stats = getAdjustedStats(datasetType, rawStats);
         const isActive = activeDataset === datasetType;
 
         return (
@@ -63,13 +79,13 @@ export const DatasetCards = ({
                   <div className="flex justify-between">
                     <span className="text-sm text-muted-foreground">Total:</span>
                     <span className="text-sm font-medium">
-                      {formatValue(stats.total)} {config.unit}
+                      {formatValue(stats.total, datasetType === 'nutrient' ? 2 : 0)} {config.unit}
                     </span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-sm text-muted-foreground">Average:</span>
                     <span className="text-sm font-medium">
-                      {formatValue(stats.average)} {config.unit}
+                      {formatValue(stats.average, datasetType === 'nutrient' ? 2 : 0)} {config.unit}
                     </span>
                   </div>
                   <div className="flex justify-between">

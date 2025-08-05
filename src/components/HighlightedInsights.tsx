@@ -79,13 +79,27 @@ export const HighlightedInsights = ({
 
   const CustomTooltip = ({ active, payload }: any) => {
     if (active && payload && payload.length) {
-      const data = payload[0].payload;
+      // For Pie Chart
+      if (payload[0].payload.name) {
+        const data = payload[0].payload;
+        return (
+          <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
+            <p className="font-medium">{data.name}</p>
+            <p style={{ color: payload[0].color }}>
+              {formatValue(data.value)} {config.unit}
+            </p>
+          </div>
+        );
+      }
+      // For Radar Chart
       return (
         <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
-          <p className="font-medium">{data.name}</p>
-          <p style={{ color: payload[0].color }}>
-            {formatValue(data.value)} {config.unit}
-          </p>
+          <p className="font-medium">Year: {payload[0].payload.year}</p>
+          {payload.map((entry: any) => (
+            <p key={entry.dataKey} style={{ color: entry.color }}>
+              {entry.dataKey}: {formatValue(entry.value)} {config.unit}
+            </p>
+          ))}
         </div>
       );
     }

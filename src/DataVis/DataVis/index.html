@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OECD Natural Resource Consumption Dashboard</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    /* Phần CSS cho thanh tab navigation */
+    .resource-tabs {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    .resource-tabs .tab {
+      padding: 0.5rem 1rem;
+      border-radius: 0.5rem;
+      background: #f3f4f6;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .resource-tabs .tab.active {
+      background: #3b82f6;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="dashboard-container">
+    <!-- Header -->
+    <div class="header">
+      <h1 class="title">OECD Natural Resources Dashboard</h1>
+      <p class="subtitle">Advanced Environmental Performance &amp; Sustainability Analytics</p>
+      <a href="http://localhost:8080" class="dashboard-link" style="display: inline-block; margin-top: 1rem; padding: 0.5rem 1rem; background-color: #3b82f6; color: white; text-decoration: none; border-radius: 0.375rem; font-weight: 500; transition: background-color 0.2s;">
+        More Information
+      </a>
+    </div>
+
+    <!-- Loading/Error Messages -->
+    <div id="loading" class="loading">Loading data...</div>
+    <div id="error" class="error" style="display: none;"></div>
+
+    <!-- Controls (chỉ còn Year &amp; Country) -->
+    <div class="controls" style="display: none;">
+      <div class="control-group">
+        <label class="control-label">Time Period</label>
+        <select id="year-select" class="control-select">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+      <div class="control-group">
+        <label class="control-label">Country</label>
+        <select id="country-select" class="control-select">
+          <!-- Populated dynamically -->
+        </select>
+      </div>
+    </div>
+
+    <!-- Resource Tabs -->
+    <div id="resource-tabs" class="resource-tabs" style="display: none;">
+      <button class="tab active" data-resource="water">💧 Water</button>
+      <button class="tab" data-resource="nutrient">🌱 Nutrient</button>
+      <button class="tab" data-resource="energy">⚡ Energy</button>
+      <button class="tab" data-resource="land">🌍 Land</button>
+    </div>
+
+    <!-- Metrics -->
+    <div class="metrics-grid" style="display: none;">
+      <div class="metric-card water-theme" data-tooltip="Water consumption in million cubic meters">
+        <div class="metric-header">
+          <div class="metric-icon">💧</div>
+          <h3 class="metric-title">Water Use</h3>
+        </div>
+        <div id="water-value" class="metric-value">--</div>
+        <p class="metric-unit">Million m³</p>
+        <p id="water-trend" class="metric-trend"></p>
+      </div>
+      <div class="metric-card nutrient-theme" data-tooltip="Nitrogen balance in kilograms per hectare">
+        <div class="metric-header">
+          <div class="metric-icon">🌱</div>
+          <h3 class="metric-title">Nutrient Balance</h3>
+        </div>
+        <div id="nutrient-value" class="metric-value">--</div>
+        <p class="metric-unit">kg/ha</p>
+        <p id="nutrient-trend" class="metric-trend"></p>
+      </div>
+      <div class="metric-card energy-theme" data-tooltip="Energy consumption in thousand tonnes of oil equivalent">
+        <div class="metric-header">
+          <div class="metric-icon">⚡</div>
+          <h3 class="metric-title">Energy Use</h3>
+        </div>
+        <div id="energy-value" class="metric-value">--</div>
+        <p class="metric-unit">Thousand TOE</p>
+        <p id="energy-trend" class="metric-trend"></p>
+      </div>
+      <div class="metric-card land-theme" data-tooltip="Agricultural land area in thousand hectares">
+        <div class="metric-header">
+          <div class="metric-icon">🌾</div>
+          <h3 class="metric-title">Land Area</h3>
+        </div>
+        <div id="land-value" class="metric-value">--</div>
+        <p class="metric-unit">Thousand ha</p>
+        <p id="land-trend" class="metric-trend"></p>
+      </div>
+    </div>
+
+    <!-- Charts -->
+    <div class="charts-grid" style="display: none;">
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Resource Consumption Trends</h3>
+          <p id="npc-filter" class="chart-subtitle">Trends over time for selected resource</p>
+        </div>
+        <div class="chart-container" id="time-series"></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Global Resource Distribution</h3>
+          <p id="map-filter" class="chart-subtitle">Geographic distribution of selected resource</p>
+        </div>
+        <div class="chart-container" id="choropleth"></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Resource Correlation</h3>
+          <p id="scatter-filter" class="chart-subtitle">Correlation between resources</p>
+        </div>
+        <div class="chart-container" id="scatter"></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Country Comparison</h3>
+          <p id="bar-filter" class="chart-subtitle">Comparison of selected resource across countries</p>
+        </div>
+        <div class="chart-container" id="bar"></div>
+      </div>
+      
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Resource Composition</h3>
+          <p id="stacked-bar-filter" class="chart-subtitle">Resource breakdown by country</p>
+        </div>
+        <div class="chart-container" id="stacked-bar"></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Resource Correlation Matrix</h3>
+          <p id="heatmap-filter" class="chart-subtitle">Correlation between all resources</p>
+        </div>
+        <div class="chart-container" id="heatmap"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

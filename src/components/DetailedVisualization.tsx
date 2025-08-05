@@ -1,25 +1,32 @@
+import React, { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Progress } from '@/components/ui/progress';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ComposedChart, Bar, Area } from 'recharts';
 import { DatasetType, ProcessedDataPoint, DATASET_CONFIG } from '@/types/data';
 import { filterData, formatValue, getDataStats } from '@/utils/dataUtils';
+import { ComposedChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import { Progress } from "@/components/ui/progress";
 
 interface DetailedVisualizationProps {
-  datasetType: DatasetType;
-  data: ProcessedDataPoint[];
+  datasetType?: DatasetType;
+  data?: ProcessedDataPoint[];
   selectedYear?: number;
-  selectedCountry: string;
-  isActive: boolean;
+  selectedCountry?: string;
+  isActive?: boolean;
 }
 
-export const DetailedVisualization = ({
-  datasetType,
-  data,
-  selectedYear,
-  selectedCountry,
-  isActive
-}: DetailedVisualizationProps) => {
-  const config = DATASET_CONFIG[datasetType];
+export const DetailedVisualization = (props: DetailedVisualizationProps) => {
+  // Log the raw props to diagnose the issue
+  console.log('Raw props:', props);
+
+  // Default values if props are undefined
+  const {
+    datasetType = 'nutrient',
+    data = [],
+    selectedYear,
+    selectedCountry = 'all',
+    isActive = false
+  } = props || {};
+
+  const config = DATASET_CONFIG[datasetType] || DATASET_CONFIG['nutrient'];
   const filteredData = filterData(data, selectedYear, selectedCountry);
   const stats = getDataStats(filteredData);
 
@@ -45,42 +52,12 @@ export const DetailedVisualization = ({
   // Get energy gauge percentage (for energy dataset)
   const getEnergyGaugePercentage = () => {
     if (datasetType !== 'energy' || !stats) return 0;
-    const maxPossible = stats.maximum * 1.2; // Assume 120% of max as full scale
+    const maxPossible = stats.maximum * 1.2;
     return Math.min((stats.total / maxPossible) * 100, 100);
-  };
-
-  // Prepare correlation data (compare this dataset with others)
-  const getCorrelationData = () => {
-    if (!selectedYear) return [];
-    
-    const countries = [...new Set(filteredData.map(d => d.country))];
-    return countries.map(country => ({
-      country,
-      value: filteredData.find(d => d.country === country)?.value || 0,
-      // This would need other dataset data for real correlation
-      correlation: Math.random() * 100 + 50 // Placeholder
-    }));
   };
 
   const timeSeriesData = getTimeSeriesData();
   const energyPercentage = getEnergyGaugePercentage();
-  const correlationData = getCorrelationData();
-
-  const CustomTooltip = ({ active, payload, label }: any) => {
-    if (active && payload && payload.length) {
-      return (
-        <div className="rounded-lg shadow-md bg-white/90 backdrop-blur-sm p-3 text-sm border border-border">
-          <p className="font-medium">{`${label}`}</p>
-          {payload.map((entry: any, index: number) => (
-            <p key={index} style={{ color: entry.color }}>
-              {`${entry.dataKey}: ${formatValue(entry.value)} ${config.unit}`}
-            </p>
-          ))}
-        </div>
-      );
-    }
-    return null;
-  };
 
   return (
     <section
@@ -112,7 +89,7 @@ export const DetailedVisualization = ({
                 <Tooltip content={<CustomTooltip />} />
                 {timeSeriesData.length > 0 && Object.keys(timeSeriesData[0])
                   .filter(key => key !== 'year')
-                  .slice(0, 3) // Show top 3 countries
+                  .slice(0, 3)
                   .map((country, index) => (
                     <Line
                       key={country}
@@ -157,32 +134,6 @@ export const DetailedVisualization = ({
             </CardContent>
           </Card>
         )}
-
-        {/* Global Resource Distribution (3D Globe representation) */}
-        <Card className={datasetType === 'energy' ? 'xl:col-span-2' : ''}>
-          <CardHeader>
-            <CardTitle>🌍 Global Distribution</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="relative h-64 bg-gradient-to-br from-sky/20 to-forest/20 rounded-lg flex items-center justify-center overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent animate-pulse" />
-              <div className="text-center z-10">
-                <div className="text-6xl mb-4 animate-spin-slow">🌍</div>
-                <p className="text-sm text-muted-foreground">
-                  Interactive globe visualization
-                </p>
-                <p className="text-xs text-muted-foreground mt-1">
-                  Color intensity by {config.name.toLowerCase()}
-                </p>
-              </div>
-              {/* Simulated data points */}
-              <div className="absolute top-4 left-4 w-3 h-3 bg-primary rounded-full animate-pulse" />
-              <div className="absolute top-8 right-6 w-2 h-2 bg-energy rounded-full animate-pulse" style={{ animationDelay: '0.5s' }} />
-              <div className="absolute bottom-6 left-8 w-4 h-4 bg-forest rounded-full animate-pulse" style={{ animationDelay: '1s' }} />
-              <div className="absolute bottom-4 right-4 w-2 h-2 bg-water rounded-full animate-pulse" style={{ animationDelay: '1.5s' }} />
-            </div>
-          </CardContent>
-        </Card>
 
         {/* Statistics Summary */}
         <Card>
@@ -236,5 +187,21 @@ export const DetailedVisualization = ({
         </Card>
       </div>
     </section>
+  );
+};
+
+// Custom tooltip for the chart
+const CustomTooltip = ({ active, payload, label }: any) => {
+  if (!active || !payload || !payload.length) return null;
+
+  return (
+    <div className="bg-white/90 dark:bg-black/90 backdrop-blur-sm rounded-lg p-2 text-xs border border-border">
+      <p className="font-medium">Year: {label}</p>
+      {payload.map((entry: any, index: number) => (
+        <p key={index} style={{ color: entry.stroke || entry.color }}>
+          {entry.name}: {formatValue(entry.value)} {DATASET_CONFIG[entry.dataKey]?.unit || ''}
+        </p>
+      ))}
+    </div>
   );
 };
