@@ -4,12 +4,18 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>OECD Natural Resource Consumption Dashboard</title>
+
+  <!-- D3 và Tailwind -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- CSS DataVis -->
   <link rel="stylesheet" href="./styles.css" />
+
   <style>
-    /* Phần CSS cho thanh tab navigation */
     .resource-tabs {
       display: flex;
       gap: 1rem;
@@ -35,33 +41,30 @@
     <div class="header">
       <h1 class="title">OECD Natural Resources Dashboard</h1>
       <p class="subtitle">Advanced Environmental Performance &amp; Sustainability Analytics</p>
-      <a href="http://localhost:8080" class="dashboard-link" style="display: inline-block; margin-top: 1rem; padding: 0.5rem 1rem; background-color: #3b82f6; color: white; text-decoration: none; border-radius: 0.375rem; font-weight: 500; transition: background-color 0.2s;">
+      <!-- Link deploy thay vì localhost -->
+      <a href="/react" class="dashboard-link" style="display:inline-block;margin-top:1rem;padding:0.5rem 1rem;background-color:#3b82f6;color:white;text-decoration:none;border-radius:0.375rem;font-weight:500;transition:background-color 0.2s;">
         More Information
       </a>
     </div>
 
     <!-- Loading/Error Messages -->
     <div id="loading" class="loading">Loading data...</div>
-    <div id="error" class="error" style="display: none;"></div>
+    <div id="error" class="error" style="display:none;"></div>
 
-    <!-- Controls (chỉ còn Year &amp; Country) -->
-    <div class="controls" style="display: none;">
+    <!-- Controls -->
+    <div class="controls" style="display:none;">
       <div class="control-group">
         <label class="control-label">Time Period</label>
-        <select id="year-select" class="control-select">
-          <!-- Populated dynamically -->
-        </select>
+        <select id="year-select" class="control-select"></select>
       </div>
       <div class="control-group">
         <label class="control-label">Country</label>
-        <select id="country-select" class="control-select">
-          <!-- Populated dynamically -->
-        </select>
+        <select id="country-select" class="control-select"></select>
       </div>
     </div>
 
     <!-- Resource Tabs -->
-    <div id="resource-tabs" class="resource-tabs" style="display: none;">
+    <div id="resource-tabs" class="resource-tabs" style="display:none;">
       <button class="tab active" data-resource="water">💧 Water</button>
       <button class="tab" data-resource="nutrient">🌱 Nutrient</button>
       <button class="tab" data-resource="energy">⚡ Energy</button>
@@ -69,7 +72,7 @@
     </div>
 
     <!-- Metrics -->
-    <div class="metrics-grid" style="display: none;">
+    <div class="metrics-grid" style="display:none;">
       <div class="metric-card water-theme" data-tooltip="Water consumption in million cubic meters">
         <div class="metric-header">
           <div class="metric-icon">💧</div>
@@ -79,6 +82,7 @@
         <p class="metric-unit">Million m³</p>
         <p id="water-trend" class="metric-trend"></p>
       </div>
+
       <div class="metric-card nutrient-theme" data-tooltip="Nitrogen balance in kilograms per hectare">
         <div class="metric-header">
           <div class="metric-icon">🌱</div>
@@ -88,6 +92,7 @@
         <p class="metric-unit">kg/ha</p>
         <p id="nutrient-trend" class="metric-trend"></p>
       </div>
+
       <div class="metric-card energy-theme" data-tooltip="Energy consumption in thousand tonnes of oil equivalent">
         <div class="metric-header">
           <div class="metric-icon">⚡</div>
@@ -97,6 +102,7 @@
         <p class="metric-unit">Thousand TOE</p>
         <p id="energy-trend" class="metric-trend"></p>
       </div>
+
       <div class="metric-card land-theme" data-tooltip="Agricultural land area in thousand hectares">
         <div class="metric-header">
           <div class="metric-icon">🌾</div>
@@ -109,53 +115,58 @@
     </div>
 
     <!-- Charts -->
-    <div class="charts-grid" style="display: none;">
+    <div class="charts-grid" style="display:none;">
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Resource Consumption Trends</h3>
-          <p id="npc-filter" class="chart-subtitle">Trends over time for selected resource</p>
+          <p id="npc-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="time-series"></div>
       </div>
+
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Global Resource Distribution</h3>
-          <p id="map-filter" class="chart-subtitle">Geographic distribution of selected resource</p>
+          <p id="map-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="choropleth"></div>
       </div>
+
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Resource Correlation</h3>
-          <p id="scatter-filter" class="chart-subtitle">Correlation between resources</p>
+          <p id="scatter-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="scatter"></div>
       </div>
+
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Country Comparison</h3>
-          <p id="bar-filter" class="chart-subtitle">Comparison of selected resource across countries</p>
+          <p id="bar-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="bar"></div>
       </div>
-      
+
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Resource Composition</h3>
-          <p id="stacked-bar-filter" class="chart-subtitle">Resource breakdown by country</p>
+          <p id="stacked-bar-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="stacked-bar"></div>
       </div>
+
       <div class="chart-card">
         <div class="chart-header">
           <h3 class="chart-title">Resource Correlation Matrix</h3>
-          <p id="heatmap-filter" class="chart-subtitle">Correlation between all resources</p>
+          <p id="heatmap-filter" class="chart-subtitle"></p>
         </div>
         <div class="chart-container" id="heatmap"></div>
       </div>
     </div>
   </div>
 
+  <!-- Script DataVis -->
   <script src="./script.js"></script>
 </body>
 </html>
