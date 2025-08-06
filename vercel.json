@@ -1,22 +1,6 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
   "rewrites": [
-    {
-      "source": "/",
-      "destination": "/datavis/index.html"
-    },
-    {
-      "source": "/datavis",
-      "destination": "/datavis/index.html"
-    },
-    {
-      "source": "/datavis/",
-      "destination": "/datavis/index.html"
-    },
-    {
-      "source": "/react(/.*)?",
-      "destination": "/react/index.html"
-    }
+    { "source": "/", "destination": "/datavis/index.html" },
+    { "source": "/react(/.*)?", "destination": "/react/index.html" }
   ]
 }
