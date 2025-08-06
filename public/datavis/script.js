@@ -110,10 +110,10 @@ function loadData() {
   const resourceTabs = document.getElementById('resource-tabs');
 
   Promise.all([
-    d3.json('./water_data.json'),
-    d3.json('./nutrients_data.json'),
-    d3.json('./energy_data.json'),
-    d3.json('./land_data.json')
+    d3.json('/datavis/water_data.json'),
+    d3.json('/datavis/nutrients_data.json'),
+    d3.json('/datavis/energy_data.json'),
+    d3.json('/datavis/land_data.json')
   ])
     .then(([waterData, nutrientsData, energyData, landData]) => {
       // Clean water data
